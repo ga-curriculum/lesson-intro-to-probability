@@ -20,7 +20,7 @@
 
 1. Define experiment, outcome, event, and sample space.
 2. Calculate the union and intersection of sets.
-3. Apply six probability rules.
+3. Apply four probability rules.
 4. Import packages into Python.
 5. Solve probability problems using simulations.
 
@@ -38,13 +38,13 @@
 
 ## Lesson Outline
 
-> **Total Time: 105 mins**
+> **Total Time: 100 mins**
 
-I. **Introduction to Probability** (60 minutes total)
+I. **Introduction to Probability** (40 minutes total)
 - Set Operations & Experiments
 - Probability Rules
 
-II. **Probability Problems using Coding** (45 minutes total)
+II. **Probability Problems using Coding** (50 minutes total)
 
 ---
 
