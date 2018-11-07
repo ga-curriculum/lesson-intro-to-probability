@@ -40,7 +40,7 @@
 
 > **Total Time: 100 mins**
 
-I. **Introduction to Probability** (40 minutes total)
+I. **Introduction to Probability** (50 minutes total)
 - Set Operations & Experiments
 - Probability Rules
 
