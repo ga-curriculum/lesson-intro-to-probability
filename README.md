@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Introduction to Probability Slides | [Link](./intro_to_probability.pdf)|
+| Lesson | Introduction to Probability Slides | [Link](./intro-to-probability.pdf)|
 | Lesson | Probability Problems Jupyter Notebook | [Link](./starter-code.ipynb)|
 
 > **Dataset description:** Simulated Data
