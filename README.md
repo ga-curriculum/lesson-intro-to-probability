@@ -21,8 +21,7 @@
 1. Define experiment, outcome, event, and sample space.
 2. Calculate the union and intersection of sets.
 3. Apply three probability rules.
-4. Import packages into Python.
-5. Solve probability problems using simulations.
+4. Solve probability problems using simulations.
 
 ---
 
